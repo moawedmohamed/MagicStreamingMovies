@@ -1,0 +1,15 @@
+# Compiled binary
+MagicStreamingMovies
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
